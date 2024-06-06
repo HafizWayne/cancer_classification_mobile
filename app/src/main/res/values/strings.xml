@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Asclepius</string>
+    <string name="camera_x">CameraX</string>
+    <string name="camera">Kamera</string>
+    <string name="gallery">Choose Your Image</string>
+    <string name="analyze">Analyze Your Image</string>
+    <string name="result">Analysis Result</string>
+    <string name="no_media_selected">No Media Selected</string>
+    <string name="image_classifier_failed">Failed to Load Model</string>
+    <string name="empty_image_warning">Error image is Empty</string>
+    <string name="crop_error_message">error cropping images</string>
+</resources>
